@@ -1,0 +1,211 @@
+16:49:09.035 HTTP listening on *:80
+16:49:09.036 Matchmaker listening on *:8888
+16:50:18.092 Message TYPE: connect
+16:50:18.093 Adding connection for 124 with playerConnected: false
+16:50:41.683 Message TYPE: streamerConnected
+16:50:41.683 Cirrus server 124.222.23.141:70 ready for use
+16:50:48.087 Message TYPE: ping
+16:51:02.834 Message TYPE: clientConnected
+16:51:02.835 Client connected to Cirrus server 124.222.23.141:70
+16:51:10.080 Message TYPE: clientDisconnected
+16:51:10.080 Client disconnected from Cirrus server 124.222.23.141:70
+16:51:18.086 Message TYPE: ping
+16:51:25.102 Message TYPE: clientConnected
+16:51:25.103 Client connected to Cirrus server 124.222.23.141:70
+16:51:44.793 Message TYPE: clientDisconnected
+16:51:44.794 Client disconnected from Cirrus server 124.222.23.141:70
+16:51:48.087 Message TYPE: ping
+16:52:17.022 Message TYPE: clientConnected
+16:52:17.023 Client connected to Cirrus server 124.222.23.141:70
+16:52:18.087 Message TYPE: ping
+16:52:34.904 Message TYPE: clientDisconnected
+16:52:34.905 Client disconnected from Cirrus server 124.222.23.141:70
+16:52:48.087 Message TYPE: ping
+16:52:52.633 Message TYPE: clientConnected
+16:52:52.635 Client connected to Cirrus server 124.222.23.141:70
+16:52:56.052 Message TYPE: clientDisconnected
+16:52:56.054 Client disconnected from Cirrus server 124.222.23.141:70
+16:53:03.996 Message TYPE: clientConnected
+16:53:03.997 Client connected to Cirrus server 124.222.23.141:70
+16:53:06.814 Message TYPE: clientDisconnected
+16:53:06.815 Client disconnected from Cirrus server 124.222.23.141:70
+16:53:18.087 Message TYPE: ping
+16:53:48.088 Message TYPE: ping
+16:54:18.089 Message TYPE: ping
+16:54:48.090 Message TYPE: ping
+16:54:54.736 Message TYPE: clientConnected
+16:54:54.737 Client connected to Cirrus server 124.222.23.141:70
+16:55:10.170 Message TYPE: clientDisconnected
+16:55:10.172 Client disconnected from Cirrus server 124.222.23.141:70
+16:55:18.090 Message TYPE: ping
+16:55:48.091 Message TYPE: ping
+16:56:18.091 Message TYPE: ping
+16:56:48.090 Message TYPE: ping
+16:57:18.091 Message TYPE: ping
+16:57:48.090 Message TYPE: ping
+16:58:18.090 Message TYPE: ping
+16:58:48.090 Message TYPE: ping
+16:59:04.549 Message TYPE: clientConnected
+16:59:04.550 Client connected to Cirrus server 124.222.23.141:70
+16:59:07.687 Message TYPE: clientDisconnected
+16:59:07.688 Client disconnected from Cirrus server 124.222.23.141:70
+16:59:18.090 Message TYPE: ping
+16:59:48.091 Message TYPE: ping
+17:00:18.091 Message TYPE: ping
+17:00:48.091 Message TYPE: ping
+17:01:18.091 Message TYPE: ping
+17:01:43.747 Message TYPE: clientConnected
+17:01:43.749 Client connected to Cirrus server 124.222.23.141:70
+17:01:48.091 Message TYPE: ping
+17:02:11.808 Message TYPE: clientDisconnected
+17:02:11.809 Client disconnected from Cirrus server 124.222.23.141:70
+17:02:12.922 Message TYPE: clientConnected
+17:02:12.924 Client connected to Cirrus server 124.222.23.141:70
+17:02:17.971 Message TYPE: clientDisconnected
+17:02:17.972 Client disconnected from Cirrus server 124.222.23.141:70
+17:02:18.093 Message TYPE: ping
+17:02:48.093 Message TYPE: ping
+17:03:18.093 Message TYPE: ping
+17:03:43.322 Message TYPE: clientConnected
+17:03:43.324 Client connected to Cirrus server 124.222.23.141:70
+17:03:47.012 Message TYPE: clientDisconnected
+17:03:47.013 Client disconnected from Cirrus server 124.222.23.141:70
+17:03:48.094 Message TYPE: ping
+17:03:54.574 Message TYPE: clientConnected
+17:03:54.575 Client connected to Cirrus server 124.222.23.141:70
+17:03:58.203 Message TYPE: clientDisconnected
+17:03:58.204 Client disconnected from Cirrus server 124.222.23.141:70
+17:03:59.939 Message TYPE: clientConnected
+17:03:59.941 Client connected to Cirrus server 124.222.23.141:70
+17:04:18.094 Message TYPE: ping
+17:04:45.775 Message TYPE: clientDisconnected
+17:04:45.776 Client disconnected from Cirrus server 124.222.23.141:70
+17:04:48.095 Message TYPE: ping
+17:05:02.381 Message TYPE: clientConnected
+17:05:02.383 Client connected to Cirrus server 124.222.23.141:70
+17:05:18.095 Message TYPE: ping
+17:05:31.353 Message TYPE: clientDisconnected
+17:05:31.354 Client disconnected from Cirrus server 124.222.23.141:70
+17:05:48.097 Message TYPE: ping
+17:06:18.096 Message TYPE: ping
+17:06:48.097 Message TYPE: ping
+17:07:18.098 Message TYPE: ping
+17:07:48.098 Message TYPE: ping
+17:07:55.083 Message TYPE: clientConnected
+17:07:55.085 Client connected to Cirrus server 124.222.23.141:70
+17:08:18.097 Message TYPE: ping
+17:08:39.461 Message TYPE: clientDisconnected
+17:08:39.462 Client disconnected from Cirrus server 124.222.23.141:70
+17:08:48.098 Message TYPE: ping
+17:09:18.099 Message TYPE: ping
+17:09:48.098 Message TYPE: ping
+17:10:18.099 Message TYPE: ping
+17:10:48.099 Message TYPE: ping
+17:11:18.099 Message TYPE: ping
+17:11:48.099 Message TYPE: ping
+17:12:18.099 Message TYPE: ping
+17:12:48.098 Message TYPE: ping
+17:13:18.098 Message TYPE: ping
+17:13:48.097 Message TYPE: ping
+17:14:18.098 Message TYPE: ping
+17:14:48.097 Message TYPE: ping
+17:15:18.097 Message TYPE: ping
+17:15:48.097 Message TYPE: ping
+17:16:18.097 Message TYPE: ping
+17:16:48.097 Message TYPE: ping
+17:17:18.098 Message TYPE: ping
+17:17:19.007 Message TYPE: streamerDisconnected
+17:17:19.008 Cirrus server 124.222.23.141:70 no longer ready for use
+17:17:46.304 Message TYPE: streamerConnected
+17:17:46.305 Cirrus server 124.222.23.141:70 ready for use
+17:17:48.098 Message TYPE: ping
+17:18:18.098 Message TYPE: ping
+17:18:48.097 Message TYPE: ping
+17:19:18.097 Message TYPE: ping
+17:19:48.098 Message TYPE: ping
+17:20:18.098 Message TYPE: ping
+17:20:48.098 Message TYPE: ping
+17:21:18.098 Message TYPE: ping
+17:21:48.097 Message TYPE: ping
+17:22:18.097 Message TYPE: ping
+17:22:48.099 Message TYPE: ping
+17:23:18.099 Message TYPE: ping
+17:23:48.098 Message TYPE: ping
+17:24:18.099 Message TYPE: ping
+17:24:48.100 Message TYPE: ping
+17:25:18.098 Message TYPE: ping
+17:25:48.099 Message TYPE: ping
+17:26:18.099 Message TYPE: ping
+17:26:48.099 Message TYPE: ping
+17:27:18.100 Message TYPE: ping
+17:27:32.370 Message TYPE: clientConnected
+17:27:32.371 Client connected to Cirrus server 124.222.23.141:70
+17:27:48.100 Message TYPE: ping
+17:28:18.101 Message TYPE: ping
+17:28:48.101 Message TYPE: ping
+17:29:18.101 Message TYPE: ping
+17:29:41.408 Message TYPE: clientDisconnected
+17:29:41.410 Client disconnected from Cirrus server 124.222.23.141:70
+17:29:42.281 Message TYPE: clientConnected
+17:29:42.282 Client connected to Cirrus server 124.222.23.141:70
+17:29:48.102 Message TYPE: ping
+17:30:18.103 Message TYPE: ping
+17:30:48.103 Message TYPE: ping
+17:30:56.033 Message TYPE: clientConnected
+17:30:56.035 Client connected to Cirrus server 124.222.23.141:70
+17:31:10.337 Message TYPE: clientDisconnected
+17:31:10.338 Client disconnected from Cirrus server 124.222.23.141:70
+17:31:18.103 Message TYPE: ping
+17:31:48.103 Message TYPE: ping
+17:32:18.102 Message TYPE: ping
+17:32:48.102 Message TYPE: ping
+17:33:18.103 Message TYPE: ping
+17:33:48.102 Message TYPE: ping
+17:34:18.103 Message TYPE: ping
+17:34:48.103 Message TYPE: ping
+17:35:18.103 Message TYPE: ping
+17:35:20.381 Message TYPE: streamerDisconnected
+17:35:20.383 Cirrus server 124.222.23.141:70 no longer ready for use
+17:35:20.469 Message TYPE: clientDisconnected
+17:35:20.470 Client disconnected from Cirrus server 124.222.23.141:70
+17:35:48.103 Message TYPE: ping
+17:36:18.103 Message TYPE: ping
+17:36:48.102 Message TYPE: ping
+17:37:18.102 Message TYPE: ping
+17:37:48.102 Message TYPE: ping
+17:37:51.513 Message TYPE: streamerConnected
+17:37:51.514 Cirrus server 124.222.23.141:70 ready for use
+17:38:18.101 Message TYPE: ping
+17:38:48.102 Message TYPE: ping
+17:39:18.103 Message TYPE: ping
+17:39:35.693 Message TYPE: clientConnected
+17:39:35.694 Client connected to Cirrus server 124.222.23.141:70
+17:39:48.104 Message TYPE: ping
+17:40:18.103 Message TYPE: ping
+17:40:48.103 Message TYPE: ping
+17:40:59.846 Message TYPE: clientDisconnected
+17:40:59.847 Client disconnected from Cirrus server 124.222.23.141:70
+17:41:03.600 Message TYPE: clientConnected
+17:41:03.602 Client connected to Cirrus server 124.222.23.141:70
+17:41:18.103 Message TYPE: ping
+17:41:48.102 Message TYPE: ping
+17:42:18.103 Message TYPE: ping
+17:42:48.104 Message TYPE: ping
+17:43:18.103 Message TYPE: ping
+17:43:48.102 Message TYPE: ping
+17:44:18.105 Message TYPE: ping
+17:44:24.633 Message TYPE: clientDisconnected
+17:44:24.634 Client disconnected from Cirrus server 124.222.23.141:70
+17:44:48.105 Message TYPE: ping
+17:45:18.104 Message TYPE: ping
+17:45:48.103 Message TYPE: ping
+17:46:18.104 Message TYPE: ping
+17:46:48.104 Message TYPE: ping
+17:47:18.105 Message TYPE: ping
+17:47:48.106 Message TYPE: ping
+17:48:18.106 Message TYPE: ping
+17:48:48.106 Message TYPE: ping
+17:49:18.107 Message TYPE: ping
+17:49:48.108 Message TYPE: ping
+17:56:52.920 Redirect to 124.222.23.141:70
+18:06:57.176 Cirrus server 124.222.23.141:70 disconnected from Matchmaker

@@ -1,0 +1,38 @@
+18:07:57.914 HTTP listening on *:80
+18:07:57.914 Matchmaker listening on *:8888
+18:08:19.837 Message TYPE: connect
+18:08:19.837 Adding connection for 124 with playerConnected: false
+18:08:45.814 WARNING: No empty Cirrus servers are available
+18:08:49.832 Message TYPE: ping
+18:09:15.310 Message TYPE: streamerConnected
+18:09:15.311 Cirrus server 124.222.23.141:70 ready for use
+18:09:19.833 Message TYPE: ping
+18:09:25.155 Message TYPE: clientConnected
+18:09:25.156 Client connected to Cirrus server 124.222.23.141:70
+18:09:42.501 Message TYPE: clientDisconnected
+18:09:42.502 Client disconnected from Cirrus server 124.222.23.141:70
+18:09:43.429 Message TYPE: clientConnected
+18:09:43.431 Client connected to Cirrus server 124.222.23.141:70
+18:09:49.834 Message TYPE: ping
+18:10:02.916 Message TYPE: streamerDisconnected
+18:10:02.918 Cirrus server 124.222.23.141:70 no longer ready for use
+18:10:02.975 Message TYPE: clientDisconnected
+18:10:02.977 Client disconnected from Cirrus server 124.222.23.141:70
+18:10:07.163 Message TYPE: streamerConnected
+18:10:07.165 Cirrus server 124.222.23.141:70 ready for use
+18:10:10.815 Message TYPE: clientConnected
+18:10:10.816 Client connected to Cirrus server 124.222.23.141:70
+18:10:19.836 Message TYPE: ping
+18:10:26.138 Message TYPE: clientDisconnected
+18:10:26.139 Client disconnected from Cirrus server 124.222.23.141:70
+18:10:27.368 Message TYPE: clientConnected
+18:10:27.369 Client connected to Cirrus server 124.222.23.141:70
+18:10:42.047 Message TYPE: clientConnected
+18:10:42.048 Client connected to Cirrus server 124.222.23.141:70
+18:10:49.837 Message TYPE: ping
+18:10:51.716 Message TYPE: streamerDisconnected
+18:10:51.718 Cirrus server 124.222.23.141:70 no longer ready for use
+18:10:51.771 Message TYPE: clientDisconnected
+18:10:51.773 Client disconnected from Cirrus server 124.222.23.141:70
+18:10:51.781 Message TYPE: clientDisconnected
+18:10:51.783 Client disconnected from Cirrus server 124.222.23.141:70

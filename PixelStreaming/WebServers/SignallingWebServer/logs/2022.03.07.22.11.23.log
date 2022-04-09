@@ -1,0 +1,28 @@
+22:11:23.853 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": true,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"LogVerbose": true,
+	"HomepageFile": "/Public/player.html",
+	"AdditionalRoutes": {},
+	"EnableWebserver": true,
+	"MatchmakerAddress": "10.0.12.12",
+	"MatchmakerPort": "8888",
+	"PublicIp": "124.222.23.141",
+	"HttpPort": 70,
+	"HttpsPort": 443,
+	"StreamerPort": 7770,
+	"SFUPort": 8889
+}
+22:11:23.886 No peerConnectionConfig
+22:11:23.891 Running Cirrus - The Pixel Streaming reference implementation signalling server for Unreal Engine 5.0.
+22:11:23.906 WebSocket listening for Streamer connections on :7770
+22:11:23.907 WebSocket listening for SFU connections on :8889
+22:11:23.909 WebSocket listening for Players connections on :70
+22:11:23.912 Http listening on *: 70
+22:11:24.916 Matchmaker connection error {"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"10.0.12.12","port":8888}
+22:11:24.917 Setting Keep Alive to true
+22:11:24.917 Matchmaker connection closed (hadError=true)
+22:11:24.918 Try reconnect to Matchmaker in 5 seconds

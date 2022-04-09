@@ -1,0 +1,6 @@
+18:12:45.333 HTTP listening on *:80
+18:12:45.334 Matchmaker listening on *:8888
+18:13:03.442 Message TYPE: connect
+18:13:03.443 Adding connection for 124 with playerConnected: false
+18:13:15.997 Message TYPE: streamerConnected
+18:13:15.998 Cirrus server 124.222.23.141:70 ready for use

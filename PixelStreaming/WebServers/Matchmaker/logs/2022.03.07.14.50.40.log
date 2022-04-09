@@ -1,0 +1,5 @@
+14:50:40.945 HTTP listening on *:80
+14:50:40.946 Matchmaker listening on *:8888
+14:51:06.899 Message TYPE: connect
+14:51:06.899 Adding connection for 124 with playerConnected: false
+14:51:36.893 Message TYPE: ping
